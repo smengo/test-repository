@@ -1,3 +1,4 @@
 ciao
 
 ciao3
+ciao da locale
