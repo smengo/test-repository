@@ -7,7 +7,7 @@ public class start {
 		System.out.println("ciao2");
 		System.out.println("modifica github online");
 		System.out.println("ciao2.1");
-		System.out.println("modifica github online");
+		System.out.println("modifica github locale");
 		
 	}
 }
